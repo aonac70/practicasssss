@@ -1,4 +1,4 @@
-from customer import Client, RegularClient, VipClient
+from customer import Client, RegularClient, VipCliena
 from utilities import gotoxy, borrarPantalla, blue_color, red_color, green_color, yellow_color,reset_color
 from company import Company
 from iCrud import ICrud
